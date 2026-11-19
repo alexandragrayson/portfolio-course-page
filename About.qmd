@@ -16,13 +16,6 @@ These credits are based on our [course contributors table guidelines](https://ww
 | Funder(s) | Institution/individual who funded course including grant number |
 | Funding Staff | Staff members who help with funding |
 
-## Session Information
-
-```{r}
-#| echo: false
-sessionInfo()
-```
-
 <!-- Author information -->
 [Alexandra Grayson]: https://alexandragrayson.github.io/
 [John Muschelli]: https://johnmuschelli.com/
