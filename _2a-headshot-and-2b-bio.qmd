@@ -1,7 +1,27 @@
 ## 2.1 and 2.2 Headshot and Bio {#sec-headshot .unnumbered}
 
-<!-- tips: plain background, good light, shoulders up -->
+## Headshot {#sec-bio}
+1. Background
+- A plain background, an outdoor background, or a background that shows your work environment are all great options.
+
+2. Expression
+- Confident neutral expression or smile.
+
+3. Lighting
+- Make sure that lighting isn't shadow-y and that it is evenly distributed.
+
+4. Framing
+- Focus on face; shoulders and up can be included.
+
+5. DIY Headshot
+- Try to have a friend take your photo or set your phone up so that the 'selfie arm' is out of frame.
+
+Here are a few great additional resources for taking a headshot
+
+1. https://www.lsu.edu/career/blog/2026/01/howtoheadshots.php
+2. https://www.nlalorphotography.com/blog/what-to-wear-for-corporate-headshots-women
+
 
 ## Short bio {#sec-bio}
-
+1. Write about yourself, who you are where you go to Schools
 <!-- 2–4 sentences: who you are, what you're curious about, what you're working on. You'll use it on index.html and LinkedIn. -->
